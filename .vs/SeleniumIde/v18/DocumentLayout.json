@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7217DE7F-55D9-4ADF-A2CD-FEA7F1BD6D24}|SeleniumIDE\\SeleniumIde.csproj|c:\\users\\dell\\desktop\\1-ex\\13.workshop-ci-system-with-selenium-tests-i-resources\\1-seleniumide\\seleniumide\\tc01ifuserisinvalidtryagaintest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7217DE7F-55D9-4ADF-A2CD-FEA7F1BD6D24}|SeleniumIDE\\SeleniumIde.csproj|solutionrelative:seleniumide\\tc01ifuserisinvalidtryagaintest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7217DE7F-55D9-4ADF-A2CD-FEA7F1BD6D24}|SeleniumIDE\\SeleniumIde.csproj|c:\\users\\dell\\desktop\\1-ex\\13.workshop-ci-system-with-selenium-tests-i-resources\\1-seleniumide\\seleniumide\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7217DE7F-55D9-4ADF-A2CD-FEA7F1BD6D24}|SeleniumIDE\\SeleniumIde.csproj|solutionrelative:seleniumide\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +39,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\Usings.cs",
+              "RelativeDocumentMoniker": "SeleniumIDE\\Usings.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\Usings.cs",
+              "RelativeToolTip": "SeleniumIDE\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T17:35:59.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TC01IfUserIsInvalidTryAgainTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\TC01IfUserIsInvalidTryAgainTest1.cs",
+              "RelativeDocumentMoniker": "SeleniumIDE\\TC01IfUserIsInvalidTryAgainTest1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\TC01IfUserIsInvalidTryAgainTest1.cs",
+              "RelativeToolTip": "SeleniumIDE\\TC01IfUserIsInvalidTryAgainTest1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T17:35:41.77Z",
+              "EditorCaption": ""
             }
           ]
         },

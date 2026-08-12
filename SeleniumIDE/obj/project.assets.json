@@ -1756,11 +1756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\SeleniumIde.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\SeleniumIde.csproj",
       "projectName": "SeleniumIde",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\SeleniumIde.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\SeleniumIde.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1790,7 +1790,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net8.0": {
@@ -1844,15 +1844,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.29, 8.0.29]"
+            "version": "[8.0.30, 8.0.30]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.29, 8.0.29]"
+            "version": "[8.0.30, 8.0.30]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.29, 8.0.29]"
+            "version": "[8.0.30, 8.0.30]"
           }
         ],
         "frameworkReferences": {
@@ -1860,7 +1860,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

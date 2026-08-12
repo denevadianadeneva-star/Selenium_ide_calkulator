@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MvzpQIKWSFM=",
+  "dgSpecHash": "TBhmf6I/Tko=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\SeleniumIde.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\SeleniumIde.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\coverlet.collector\\10.0.1\\coverlet.collector.10.0.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
@@ -24,9 +24,9 @@
     "C:\\Users\\Dell\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512"
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512"
   ],
   "logs": []
 }
