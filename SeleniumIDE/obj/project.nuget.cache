@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "MvzpQIKWSFM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\1-Ex\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\13.Workshop-CI-System-with-Selenium-Tests-I-Resources\\1-SeleniumIDE\\SeleniumIDE\\SeleniumIde.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\coverlet.collector\\10.0.1\\coverlet.collector.10.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.codecoverage\\18.8.1\\microsoft.codecoverage.18.8.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.net.test.sdk\\18.8.1\\microsoft.net.test.sdk.18.8.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\2.1.0\\microsoft.testing.extensions.telemetry.2.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\2.1.0\\microsoft.testing.extensions.trxreport.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\2.1.0\\microsoft.testing.extensions.vstestbridge.2.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.testing.platform\\2.1.0\\microsoft.testing.platform.2.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.testing.platform.msbuild\\2.1.0\\microsoft.testing.platform.msbuild.2.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.testplatform.objectmodel\\18.8.1\\microsoft.testplatform.objectmodel.18.8.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.testplatform.testhost\\18.8.1\\microsoft.testplatform.testhost.18.8.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\nunit\\4.6.1\\nunit.4.6.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\nunit.analyzers\\4.14.0\\nunit.analyzers.4.14.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\nunit3testadapter\\6.2.0\\nunit3testadapter.6.2.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\selenium.webdriver\\4.46.0\\selenium.webdriver.4.46.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\selenium.webdriver.chromedriver\\150.0.7871.12400\\selenium.webdriver.chromedriver.150.0.7871.12400.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
