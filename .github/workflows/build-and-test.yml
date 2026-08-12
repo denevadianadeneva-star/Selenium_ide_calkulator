@@ -1,0 +1,36 @@
+name: Build and Run Selenium Tests
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository code
+      uses: actions/checkout@v4
+
+    - name: Set up .NET Core
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x' # Провери версията да съвпада с тази на проекта ти (напр. 8.0, 6.0 или 7.0)
+
+    - name: Install Google Chrome
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y google-chrome-stable
+
+    - name: Install dependencies
+      run: dotnet restore
+
+    - name: Build solution
+      run: dotnet build --no-restore
+
+    - name: Run Selenium Tests
+      env:
+        CHROMEWEBDRIVER: /usr/bin/chromedriver
+      run: dotnet test --no-build --verbosity normal
